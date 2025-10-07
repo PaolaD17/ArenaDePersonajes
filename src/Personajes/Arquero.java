@@ -27,4 +27,6 @@ public class Arquero extends Personaje{
         if (precision < 1 || precision > 50) throw new IllegalArgumentException("Precisión fuera de rango");
         this.precision = precision;
     }
+
+    Probando desde notebook
 }
